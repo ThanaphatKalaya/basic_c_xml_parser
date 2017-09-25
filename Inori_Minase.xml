@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<singer name="Inori Minase" dob="02-12-1995" gender="Female" nationality="Japanese">
+    <Agent>Sony Music Artists</Agent>
+    <album>
+        <name>Innocent flower</name>
+        <release>2017</release>
+        <song>
+            <name>春空</name>
+            <duration>4:30</duration>
+            <lyricist>Shoko Fujibayashi</lyricist>
+        </song>
+        <song>
+            <name>夢のつぼみ</name>
+            <duration>5:01</duration>
+            <lyricist>Shoko Fujibayashi</lyricist>
+        </song>
+        <song>
+            <name>Lucky Clover</name>
+            <duration>4:50</duration>
+            <lyricist>Shoko Fujibayashi</lyricist>
+        </song>
+        <song>
+            <name>コイセヨオトメ</name>
+            <duration>4:20</duration>
+            <lyricist>Shoko Fujibayashi</lyricist>
+        </song>
+    </album>
+</singer>
